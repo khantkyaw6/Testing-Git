@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-media-bm-project",
+  "version": "1.0.0",
+  "description": "BM NodeJS Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Khant Kyaw",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
